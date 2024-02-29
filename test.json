@@ -1,0 +1,15 @@
+{
+  "name": "Test NFT",
+  "description": "A test of the nft.",
+  "image": "https://www.gk8.io/wp-content/uploads/2021/04/6-layers-4.svg",
+  "attributes": [
+    {
+      "trait_type": "Atribute 1",
+      "value": "Over 9000"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Ultra Rare"
+    }
+  ]
+}
