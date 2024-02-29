@@ -1,7 +1,7 @@
 {
   "name": "Test NFT",
   "description": "A test of the nft.",
-  "image": "https://www.gk8.io/wp-content/uploads/2021/04/6-layers-4.svg",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
   "attributes": [
     {
       "trait_type": "Atribute 1",
